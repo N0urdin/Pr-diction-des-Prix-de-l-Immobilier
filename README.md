@@ -14,11 +14,8 @@ Projet de machine learning pour estimer le prix de maisons en fonction de plusie
 ## 📁 Structure
 ```
 📂 real-estate-price-prediction
-├── data/
-├── model.py
-├── app.py                 # Interface Dash
-├── notebooks/
-├── requirements.txt
+├── Real_Estate
+├── Prédiction des Prix de l'Immobilier.ipynb
 └── README.md
 ```
 
